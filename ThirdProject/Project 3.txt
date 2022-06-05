@@ -1,0 +1,60 @@
+Invoice to
+Gohanx Group
+
+
+1610 16th St SW Austin, Minnesota(MN), 55912
+P: 10001
+Phone: (507) 437-4354
+M: gohanx@healthcare.com
+
+
+INVOICE
+Invoice # 00212
+Account # 124400442
+
+Date 17 March 2020
+
+
+Service
+
+Description of Work Done
+
+Description
+Hours Spent 
+
+Amount Per Hour
+
+Total
+
+(Hours spent) x (Amount per hour) = [$X]
+
+Total Payment Due: [Total Payment in Dollars]
+
+[Itemized service provided]	
+[Clear description of service provided, be as specific as possible]	
+[Amount of hours spent on service]
+
+
+
+
+Converting the complete PSD files at once causes a longer page loading time broke it into pieces so that you can convert small file pieces easily
+
+
+Once you have all the sliced images need to generate the directories,The main folder is named your website.
+A folder named ‘images in the main folder that you named on your site. It is for storing all the images you will add in the future.
+Lastly, another folder called ‘styles’ for the style sheets or the CSS files in the main folder.
+
+
+This step is all about creating the HTML pageThe top part of the page is Header, and you need to start sectioning from it.
+The next one is Hero, and it is the biggest section on the page. This section will signify a particular image on your page.
+Slideshow is the third section to code, and it will display the list of images and automatically side across the page.
+Next, it is your main content. This text area will contain data, including the texts, images, buttons, etc.
+Lastly, it is the footer. It signifies the bottom part of the page that will contain the Blog links, contact, other social media links
+
+to create the HTML code, you need to create the style files for your page. You need to put the files to CSS, and it is like a mandatory task. However, you can create the style files using a framework. Bootstrap is the most suggested one for that. You can even shape it later on if you wish.
+
+
+We need to create the style files for the Page , We'll convert the files to CSS,A framework, on the other hand, can be used to construct the style files. The most popular recommendation is Bootstrap,you can also shape it later.
+
+
+4793 Settlers Lane, New York, NY,USA 556
